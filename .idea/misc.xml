@@ -8,11 +8,14 @@
         <entry key="..\:/Users/ujjwa/AndroidStudioProjects/TenantFinder/app/src/main/res/drawable/et_bg.xml" value="0.1275" />
         <entry key="..\:/Users/ujjwa/AndroidStudioProjects/TenantFinder/app/src/main/res/drawable/lg_bg.xml" value="0.23" />
         <entry key="..\:/Users/ujjwa/AndroidStudioProjects/TenantFinder/app/src/main/res/drawable/login.xml" value="0.23" />
-        <entry key="..\:/Users/ujjwa/AndroidStudioProjects/TenantFinder/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/ujjwa/AndroidStudioProjects/TenantFinder/app/src/main/res/layout/activity_login.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/ujjwa/AndroidStudioProjects/TenantFinder/app/src/main/res/layout/activity_main.xml" value="0.152" />
         <entry key="..\:/Users/ujjwa/AndroidStudioProjects/TenantFinder/app/src/main/res/layout/activity_main2.xml" value="0.264" />
+        <entry key="..\:/Users/ujjwa/AndroidStudioProjects/TenantFinder/app/src/main/res/layout/activity_main3.xml" value="0.264" />
         <entry key="..\:/Users/ujjwa/AndroidStudioProjects/TenantFinder/app/src/main/res/layout/fragment_1.xml" value="0.21920289855072464" />
         <entry key="..\:/Users/ujjwa/AndroidStudioProjects/TenantFinder/app/src/main/res/layout/fragment_2.xml" value="0.21920289855072464" />
         <entry key="..\:/Users/ujjwa/AndroidStudioProjects/TenantFinder/app/src/main/res/layout/fragment_blank.xml" value="0.21920289855072464" />
+        <entry key="..\:/Users/ujjwa/AndroidStudioProjects/TenantFinder/app/src/main/res/layout/fragment_first.xml" value="0.21927083333333333" />
         <entry key="..\:/Users/ujjwa/AndroidStudioProjects/TenantFinder/app/src/main/res/layout/layout.xml" value="0.21927083333333333" />
       </map>
     </option>
